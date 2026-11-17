@@ -1,2 +1,2 @@
-# MaxivaAcademcy
-Maxiva Academy resources (maxiva.tech)
+# Claude Teach Resource
+Claude Teach Resource (maxiva.tech)

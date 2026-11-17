@@ -1,0 +1,29 @@
+Board update thread (practice) - fictional, for training only
+
+From: Jordan Ellis (board chair) <jordan.ellis@riverside-pantry.example>
+To: Volunteer coordinator
+Subject: Numbers and policy for Thursday's board meeting
+Date: Monday, November 9
+
+Hi,
+
+Ahead of Thursday's board meeting (6 pm), could you send me two things?
+1. This year's donation total, and which campaign brought in the most.
+2. A one-page update on the volunteer policy. Is draft v3 ready for a vote?
+
+If the numbers aren't final, a best estimate is fine, but please say so.
+
+Thanks,
+Jordan
+
+---
+
+From: Sam Patel (treasurer) <sam.patel@riverside-pantry.example>
+To: Jordan Ellis; Volunteer coordinator
+Subject: RE: Numbers and policy for Thursday's board meeting
+Date: Monday, November 9
+
+Jordan, I'd like the numbers by Wednesday noon so I can check them against the bank statements before the meeting.
+Also: the donations sheet had a formula problem last quarter. Please double-check the total.
+
+Sam
