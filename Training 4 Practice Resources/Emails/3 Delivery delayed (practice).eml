@@ -1,34 +1,14 @@
-From: Riverside Pantry (practice) <riverside.pantry.practice@example.org>
-To: You (practice) <you@example.org>
+From: "Riverside Pantry (practice)" <riverside.pantry.practice@example.org>
+To: "You (practice)" <you@example.org>
 Subject: Delivery delayed (practice)
 Date: Wed, 18 Nov 2026 09:21:00 -0500
-MIME-Version: 1.0
-Content-Type: multipart/alternative;
- boundary="===============5806338840130984019=="
-
---===============5806338840130984019==
-Content-Type: text/plain; charset="utf-8"
-Content-Transfer-Encoding: quoted-printable
-
-Hi Riverside,
-
-This week's regional food bank delivery moves from Tuesday to Thursday, Nov 2=
-6, at the same time window (10:00=E2=80=9312:00).
-
-Please make sure someone is there to sign for it.
-
-Thank you,
-Regional Food Bank logistics (practice)
-
---===============5806338840130984019==
 Content-Type: text/html; charset="utf-8"
-Content-Transfer-Encoding: quoted-printable
+Content-Transfer-Encoding: base64
 MIME-Version: 1.0
 
-<div style=3D"font-family:Calibri,Arial,sans-serif;font-size:11pt">Hi Riversi=
-de,<br><br>This week's regional food bank delivery moves from Tuesday to Thur=
-sday, Nov 26, at the same time window (10:00=E2=80=9312:00).<br><br>Please ma=
-ke sure someone is there to sign for it.<br><br>Thank you,<br>Regional Food B=
-ank logistics (practice)</div>
-
---===============5806338840130984019==--
+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6Q2FsaWJyaSxBcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6
+ZToxMXB0Ij5IaSBSaXZlcnNpZGUsPGJyPjxicj5UaGlzIHdlZWsncyByZWdpb25hbCBmb29kIGJh
+bmsgZGVsaXZlcnkgbW92ZXMgZnJvbSBUdWVzZGF5IHRvIFRodXJzZGF5LCBOb3YgMjYsIGF0IHRo
+ZSBzYW1lIHRpbWUgd2luZG93ICgxMDowMOKAkzEyOjAwKS48YnI+PGJyPlBsZWFzZSBtYWtlIHN1
+cmUgc29tZW9uZSBpcyB0aGVyZSB0byBzaWduIGZvciBpdC48YnI+PGJyPlRoYW5rIHlvdSw8YnI+
+UmVnaW9uYWwgRm9vZCBCYW5rIGxvZ2lzdGljcyAocHJhY3RpY2UpPC9kaXY+Cg==
