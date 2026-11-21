@@ -1,0 +1,413 @@
+date,household_id,visit_type,pounds
+2026-10-01,HH-1047,appointment,13
+2026-10-01,HH-1065,appointment,17
+2026-10-01,HH-1100,home delivery,17
+2026-10-01,HH-1103,appointment,21
+2026-10-01,HH-1199,walk-in,20
+2026-10-01,HH-1209,walk-in,12
+2026-10-01,HH-1231,walk-in,10
+2026-10-01,HH-1267,walk-in,18
+2026-10-01,HH-1282,walk-in,11
+2026-10-01,HH-1382,walk-in,10
+2026-10-01,HH-1385,walk-in,20
+2026-10-01,HH-1468,walk-in,10
+2026-10-01,HH-1501,walk-in,10
+2026-10-01,HH-1525,appointment,14
+2026-10-01,HH-1536,walk-in,10
+2026-10-01,HH-1562,walk-in,9
+2026-10-01,HH-1564,walk-in,12
+2026-10-01,HH-1613,home delivery,15
+2026-10-01,HH-1615,appointment,15
+2026-10-01,HH-1639,walk-in,12
+2026-10-01,HH-1685,walk-in,13
+2026-10-01,HH-1721,appointment,20
+2026-10-01,HH-1729,walk-in,11
+2026-10-01,HH-1794,appointment,18
+2026-10-01,HH-1806,appointment,21
+2026-10-01,HH-1877,walk-in,17
+2026-10-02,HH-1011,appointment,21
+2026-10-02,HH-1264,walk-in,16
+2026-10-02,HH-1364,appointment,9
+2026-10-02,HH-1447,walk-in,14
+2026-10-02,HH-1495,walk-in,9
+2026-10-02,HH-1517,home delivery,15
+2026-10-02,HH-1627,appointment,17
+2026-10-02,HH-1716,walk-in,19
+2026-10-02,HH-1729,home delivery,12
+2026-10-02,HH-1803,walk-in,18
+2026-10-02,HH-1816,walk-in,21
+2026-10-02,HH-1838,home delivery,11
+2026-10-02,HH-1860,walk-in,9
+2026-10-02,HH-1861,home delivery,21
+2026-10-02,HH-1873,walk-in,15
+2026-10-03,HH-1124,appointment,14
+2026-10-03,HH-1305,walk-in,17
+2026-10-03,HH-1343,appointment,9
+2026-10-03,HH-1491,home delivery,14
+2026-10-03,HH-1522,walk-in,10
+2026-10-03,HH-1591,walk-in,16
+2026-10-03,HH-1742,appointment,13
+2026-10-03,HH-1884,walk-in,11
+2026-10-04,HH-1071,appointment,12
+2026-10-04,HH-1126,walk-in,12
+2026-10-04,HH-1228,walk-in,9
+2026-10-04,HH-1230,walk-in,12
+2026-10-04,HH-1367,walk-in,20
+2026-10-04,HH-1752,appointment,14
+2026-10-04,HH-1756,walk-in,17
+2026-10-04,HH-1770,walk-in,15
+2026-10-05,HH-1024,walk-in,13
+2026-10-05,HH-1129,home delivery,20
+2026-10-05,HH-1265,walk-in,21
+2026-10-05,HH-1310,walk-in,17
+2026-10-05,HH-1333,appointment,15
+2026-10-05,HH-1372,appointment,9
+2026-10-05,HH-1376,walk-in,12
+2026-10-05,HH-1378,walk-in,21
+2026-10-05,HH-1425,walk-in,20
+2026-10-05,HH-1427,walk-in,15
+2026-10-05,HH-1509,home delivery,18
+2026-10-05,HH-1748,home delivery,20
+2026-10-05,HH-1765,appointment,21
+2026-10-05,HH-1825,walk-in,21
+2026-10-05,HH-1880,walk-in,13
+2026-10-05,HH-1930,walk-in,9
+2026-10-05,HH-1978,walk-in,10
+2026-10-06,HH-1066,appointment,13
+2026-10-06,HH-1184,walk-in,17
+2026-10-06,HH-1292,appointment,18
+2026-10-06,HH-1411,home delivery,13
+2026-10-06,HH-1453,walk-in,18
+2026-10-06,HH-1465,walk-in,21
+2026-10-06,HH-1677,walk-in,15
+2026-10-06,HH-1848,appointment,16
+2026-10-06,HH-1855,walk-in,10
+2026-10-06,HH-1948,home delivery,13
+2026-10-07,HH-1038,home delivery,10
+2026-10-07,HH-1047,walk-in,19
+2026-10-07,HH-1052,appointment,17
+2026-10-07,HH-1145,walk-in,14
+2026-10-07,HH-1378,walk-in,14
+2026-10-07,HH-1433,walk-in,14
+2026-10-07,HH-1449,home delivery,19
+2026-10-07,HH-1602,appointment,20
+2026-10-07,HH-1625,walk-in,14
+2026-10-07,HH-1664,walk-in,21
+2026-10-07,HH-1707,walk-in,18
+2026-10-07,HH-1712,walk-in,13
+2026-10-07,HH-1916,appointment,14
+2026-10-07,HH-1944,appointment,20
+2026-10-07,HH-1975,home delivery,18
+2026-10-08,HH-1286,walk-in,11
+2026-10-08,HH-1319,walk-in,21
+2026-10-08,HH-1354,appointment,16
+2026-10-08,HH-1361,walk-in,15
+2026-10-08,HH-1450,walk-in,9
+2026-10-08,HH-1563,walk-in,20
+2026-10-08,HH-1589,appointment,12
+2026-10-08,HH-1618,appointment,17
+2026-10-08,HH-1647,walk-in,11
+2026-10-08,HH-1707,appointment,15
+2026-10-08,HH-1761,walk-in,11
+2026-10-08,HH-1765,walk-in,10
+2026-10-09,HH-1056,appointment,21
+2026-10-09,HH-1124,walk-in,15
+2026-10-09,HH-1129,walk-in,10
+2026-10-09,HH-1159,walk-in,18
+2026-10-09,HH-1187,home delivery,15
+2026-10-09,HH-1314,walk-in,13
+2026-10-09,HH-1380,appointment,20
+2026-10-09,HH-1474,walk-in,17
+2026-10-09,HH-1639,walk-in,18
+2026-10-09,HH-1653,walk-in,18
+2026-10-09,HH-1779,walk-in,11
+2026-10-09,HH-1797,home delivery,21
+2026-10-09,HH-1874,home delivery,20
+2026-10-09,HH-1910,walk-in,19
+2026-10-09,HH-1966,walk-in,19
+2026-10-10,HH-1029,appointment,15
+2026-10-10,HH-1037,walk-in,18
+2026-10-10,HH-1054,walk-in,20
+2026-10-10,HH-1095,walk-in,19
+2026-10-10,HH-1356,walk-in,9
+2026-10-10,HH-1526,walk-in,9
+2026-10-10,HH-1700,home delivery,10
+2026-10-10,HH-1736,walk-in,20
+2026-10-10,HH-1740,walk-in,15
+2026-10-10,HH-1749,home delivery,10
+2026-10-10,HH-1914,walk-in,18
+2026-10-10,HH-1945,walk-in,14
+2026-10-10,HH-1951,appointment,17
+2026-10-10,HH-1974,walk-in,9
+2026-10-11,HH-1118,walk-in,16
+2026-10-11,HH-1344,appointment,12
+2026-10-11,HH-1387,walk-in,14
+2026-10-11,HH-1414,appointment,11
+2026-10-11,HH-1441,appointment,20
+2026-10-11,HH-1459,walk-in,12
+2026-10-11,HH-1462,walk-in,13
+2026-10-11,HH-1546,walk-in,14
+2026-10-11,HH-1562,walk-in,17
+2026-10-11,HH-1567,walk-in,19
+2026-10-11,HH-1635,appointment,19
+2026-10-11,HH-1673,walk-in,19
+2026-10-11,HH-1693,walk-in,15
+2026-10-11,HH-1703,walk-in,19
+2026-10-11,HH-1708,walk-in,19
+2026-10-11,HH-1848,appointment,16
+2026-10-11,HH-1898,walk-in,18
+2026-10-12,HH-1008,walk-in,11
+2026-10-12,HH-1064,home delivery,16
+2026-10-12,HH-1167,walk-in,21
+2026-10-12,HH-1179,home delivery,9
+2026-10-12,HH-1218,walk-in,11
+2026-10-12,HH-1310,appointment,10
+2026-10-12,HH-1311,walk-in,15
+2026-10-12,HH-1404,appointment,12
+2026-10-12,HH-1590,appointment,14
+2026-10-12,HH-1617,walk-in,20
+2026-10-12,HH-1650,appointment,18
+2026-10-12,HH-1716,appointment,17
+2026-10-12,HH-1938,walk-in,12
+2026-10-13,HH-1015,walk-in,20
+2026-10-13,HH-1036,walk-in,15
+2026-10-13,HH-1077,walk-in,15
+2026-10-13,HH-1099,walk-in,18
+2026-10-13,HH-1101,appointment,20
+2026-10-13,HH-1134,walk-in,11
+2026-10-13,HH-1156,appointment,19
+2026-10-13,HH-1207,walk-in,12
+2026-10-13,HH-1476,walk-in,9
+2026-10-13,HH-1805,appointment,21
+2026-10-14,HH-1051,home delivery,19
+2026-10-14,HH-1166,home delivery,12
+2026-10-14,HH-1180,walk-in,21
+2026-10-14,HH-1221,walk-in,17
+2026-10-14,HH-1293,appointment,14
+2026-10-14,HH-1326,walk-in,10
+2026-10-14,HH-1494,appointment,10
+2026-10-14,HH-1572,walk-in,14
+2026-10-14,HH-1738,walk-in,16
+2026-10-14,HH-1966,walk-in,10
+2026-10-15,HH-1088,walk-in,10
+2026-10-15,HH-1181,appointment,21
+2026-10-15,HH-1260,walk-in,13
+2026-10-15,HH-1516,appointment,16
+2026-10-15,HH-1556,walk-in,20
+2026-10-15,HH-1598,appointment,15
+2026-10-15,HH-1617,appointment,16
+2026-10-15,HH-1717,appointment,9
+2026-10-15,HH-1934,appointment,13
+2026-10-16,HH-1055,appointment,14
+2026-10-16,HH-1083,appointment,9
+2026-10-16,HH-1133,appointment,12
+2026-10-16,HH-1177,walk-in,21
+2026-10-16,HH-1181,walk-in,17
+2026-10-16,HH-1257,walk-in,12
+2026-10-16,HH-1276,walk-in,12
+2026-10-16,HH-1322,home delivery,19
+2026-10-16,HH-1351,home delivery,15
+2026-10-16,HH-1392,walk-in,15
+2026-10-16,HH-1418,appointment,20
+2026-10-16,HH-1479,walk-in,14
+2026-10-16,HH-1499,walk-in,20
+2026-10-16,HH-1545,home delivery,9
+2026-10-16,HH-1586,appointment,18
+2026-10-16,HH-1626,walk-in,14
+2026-10-16,HH-1658,walk-in,11
+2026-10-16,HH-1716,appointment,17
+2026-10-16,HH-1763,appointment,12
+2026-10-16,HH-1928,walk-in,19
+2026-10-16,HH-1999,appointment,13
+2026-10-17,HH-1101,walk-in,16
+2026-10-17,HH-1166,appointment,10
+2026-10-17,HH-1171,appointment,10
+2026-10-17,HH-1226,walk-in,21
+2026-10-17,HH-1251,walk-in,17
+2026-10-17,HH-1258,walk-in,17
+2026-10-17,HH-1274,walk-in,20
+2026-10-17,HH-1314,walk-in,12
+2026-10-17,HH-1362,appointment,9
+2026-10-17,HH-1503,appointment,9
+2026-10-17,HH-1631,walk-in,17
+2026-10-17,HH-1800,appointment,17
+2026-10-17,HH-1985,appointment,11
+2026-10-18,HH-1013,appointment,17
+2026-10-18,HH-1248,home delivery,20
+2026-10-18,HH-1283,appointment,20
+2026-10-18,HH-1322,walk-in,13
+2026-10-18,HH-1333,walk-in,14
+2026-10-18,HH-1337,walk-in,12
+2026-10-18,HH-1354,walk-in,19
+2026-10-18,HH-1504,walk-in,20
+2026-10-18,HH-1526,appointment,12
+2026-10-18,HH-1607,walk-in,16
+2026-10-18,HH-1658,appointment,10
+2026-10-18,HH-1667,appointment,18
+2026-10-18,HH-1741,walk-in,17
+2026-10-18,HH-1771,walk-in,19
+2026-10-18,HH-1884,appointment,13
+2026-10-19,HH-1174,walk-in,11
+2026-10-19,HH-1177,walk-in,16
+2026-10-19,HH-1272,home delivery,9
+2026-10-19,HH-1355,home delivery,15
+2026-10-19,HH-1360,walk-in,15
+2026-10-19,HH-1474,walk-in,10
+2026-10-19,HH-1590,walk-in,19
+2026-10-19,HH-1618,walk-in,13
+2026-10-19,HH-1709,appointment,17
+2026-10-19,HH-1742,walk-in,15
+2026-10-19,HH-1747,appointment,9
+2026-10-19,HH-1766,appointment,21
+2026-10-19,HH-1905,appointment,20
+2026-10-20,HH-1030,appointment,10
+2026-10-20,HH-1107,appointment,14
+2026-10-20,HH-1145,walk-in,13
+2026-10-20,HH-1286,appointment,13
+2026-10-20,HH-1423,walk-in,15
+2026-10-20,HH-1428,walk-in,15
+2026-10-20,HH-1465,walk-in,15
+2026-10-20,HH-1535,home delivery,14
+2026-10-20,HH-1554,walk-in,21
+2026-10-20,HH-1604,walk-in,21
+2026-10-20,HH-1637,home delivery,16
+2026-10-20,HH-1864,appointment,14
+2026-10-21,HH-1011,home delivery,17
+2026-10-21,HH-1200,walk-in,12
+2026-10-21,HH-1379,walk-in,20
+2026-10-21,HH-1388,walk-in,17
+2026-10-21,HH-1446,appointment,13
+2026-10-21,HH-1506,appointment,20
+2026-10-21,HH-1715,walk-in,14
+2026-10-21,HH-1925,appointment,9
+2026-10-21,HH-1926,appointment,18
+2026-10-22,HH-1029,walk-in,11
+2026-10-22,HH-1033,walk-in,15
+2026-10-22,HH-1094,walk-in,17
+2026-10-22,HH-1141,home delivery,11
+2026-10-22,HH-1169,home delivery,16
+2026-10-22,HH-1186,walk-in,11
+2026-10-22,HH-1204,appointment,14
+2026-10-22,HH-1249,walk-in,15
+2026-10-22,HH-1302,home delivery,16
+2026-10-22,HH-1334,home delivery,11
+2026-10-22,HH-1339,walk-in,21
+2026-10-22,HH-1389,walk-in,9
+2026-10-22,HH-1405,walk-in,10
+2026-10-22,HH-1444,appointment,13
+2026-10-22,HH-1472,walk-in,14
+2026-10-22,HH-1560,walk-in,10
+2026-10-22,HH-1585,walk-in,12
+2026-10-22,HH-1625,walk-in,20
+2026-10-23,HH-1067,walk-in,11
+2026-10-23,HH-1105,appointment,21
+2026-10-23,HH-1446,walk-in,12
+2026-10-23,HH-1714,walk-in,20
+2026-10-23,HH-1733,walk-in,10
+2026-10-23,HH-1800,appointment,9
+2026-10-23,HH-1819,appointment,15
+2026-10-23,HH-1845,appointment,11
+2026-10-24,HH-1013,walk-in,9
+2026-10-24,HH-1247,home delivery,21
+2026-10-24,HH-1259,appointment,13
+2026-10-24,HH-1303,appointment,14
+2026-10-24,HH-1338,appointment,19
+2026-10-24,HH-1344,appointment,11
+2026-10-24,HH-1372,walk-in,15
+2026-10-24,HH-1415,home delivery,13
+2026-10-24,HH-1456,walk-in,13
+2026-10-24,HH-1460,walk-in,11
+2026-10-24,HH-1504,walk-in,12
+2026-10-24,HH-1577,walk-in,20
+2026-10-24,HH-1578,walk-in,10
+2026-10-24,HH-1655,appointment,16
+2026-10-24,HH-1675,appointment,19
+2026-10-24,HH-1850,home delivery,13
+2026-10-24,HH-1911,appointment,10
+2026-10-24,HH-1978,appointment,14
+2026-10-24,HH-1996,appointment,21
+2026-10-25,HH-1007,walk-in,10
+2026-10-25,HH-1037,walk-in,15
+2026-10-25,HH-1040,walk-in,9
+2026-10-25,HH-1165,walk-in,19
+2026-10-25,HH-1192,appointment,12
+2026-10-25,HH-1233,walk-in,18
+2026-10-25,HH-1443,walk-in,10
+2026-10-25,HH-1527,appointment,16
+2026-10-25,HH-1759,appointment,10
+2026-10-25,HH-1818,walk-in,10
+2026-10-25,HH-1821,home delivery,10
+2026-10-25,HH-1893,walk-in,21
+2026-10-25,HH-1894,appointment,19
+2026-10-25,HH-1899,walk-in,11
+2026-10-26,HH-1039,walk-in,20
+2026-10-26,HH-1099,appointment,18
+2026-10-26,HH-1162,home delivery,13
+2026-10-26,HH-1173,home delivery,20
+2026-10-26,HH-1235,walk-in,17
+2026-10-26,HH-1307,walk-in,13
+2026-10-26,HH-1475,appointment,20
+2026-10-26,HH-1663,appointment,12
+2026-10-26,HH-1968,appointment,11
+2026-10-26,HH-1981,appointment,13
+2026-10-26,HH-1983,walk-in,13
+2026-10-27,HH-1003,walk-in,9
+2026-10-27,HH-1018,walk-in,17
+2026-10-27,HH-1267,home delivery,14
+2026-10-27,HH-1273,walk-in,16
+2026-10-27,HH-1320,walk-in,10
+2026-10-27,HH-1398,appointment,11
+2026-10-27,HH-1450,walk-in,11
+2026-10-27,HH-1460,appointment,9
+2026-10-27,HH-1550,walk-in,14
+2026-10-27,HH-1580,walk-in,20
+2026-10-27,HH-1744,walk-in,15
+2026-10-27,HH-1783,walk-in,21
+2026-10-27,HH-1997,walk-in,12
+2026-10-28,HH-1058,walk-in,10
+2026-10-28,HH-1131,appointment,11
+2026-10-28,HH-1159,appointment,14
+2026-10-28,HH-1166,home delivery,12
+2026-10-28,HH-1269,walk-in,15
+2026-10-28,HH-1273,walk-in,9
+2026-10-28,HH-1332,walk-in,13
+2026-10-28,HH-1338,walk-in,18
+2026-10-28,HH-1368,walk-in,9
+2026-10-28,HH-1429,appointment,9
+2026-10-28,HH-1520,walk-in,21
+2026-10-28,HH-1552,walk-in,10
+2026-10-28,HH-1564,appointment,15
+2026-10-28,HH-1710,walk-in,14
+2026-10-28,HH-1771,appointment,19
+2026-10-28,HH-1807,walk-in,13
+2026-10-28,HH-1880,walk-in,11
+2026-10-28,HH-1935,walk-in,17
+2026-10-29,HH-1027,walk-in,17
+2026-10-29,HH-1344,appointment,19
+2026-10-29,HH-1427,appointment,10
+2026-10-29,HH-1533,walk-in,21
+2026-10-29,HH-1556,walk-in,21
+2026-10-29,HH-1789,walk-in,15
+2026-10-30,HH-1065,appointment,13
+2026-10-30,HH-1281,appointment,12
+2026-10-30,HH-1304,appointment,14
+2026-10-30,HH-1520,walk-in,15
+2026-10-30,HH-1662,walk-in,16
+2026-10-30,HH-1678,walk-in,14
+2026-10-30,HH-1684,walk-in,9
+2026-10-30,HH-1702,walk-in,14
+2026-10-30,HH-1743,walk-in,15
+2026-10-30,HH-1753,walk-in,9
+2026-10-30,HH-1858,appointment,15
+2026-10-30,HH-1938,walk-in,12
+2026-10-30,HH-1983,walk-in,16
+2026-10-30,HH-1985,home delivery,13
+2026-10-31,HH-1002,walk-in,16
+2026-10-31,HH-1192,appointment,17
+2026-10-31,HH-1207,walk-in,15
+2026-10-31,HH-1298,walk-in,9
+2026-10-31,HH-1556,walk-in,12
+2026-10-31,HH-1642,walk-in,13
+2026-10-31,HH-1965,appointment,11
+2026-10-31,HH-1968,appointment,21
+2026-10-31,HH-1990,walk-in,11
